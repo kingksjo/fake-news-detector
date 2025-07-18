@@ -49,7 +49,7 @@ The dataset used for this project is the "Real and Fake News" dataset available 
     jupyter lab
     ```
 2.  **Open the notebook:**
-    Open the `Fake_News_Classification.ipynb` file and run the cells sequentially.
+    Open the `fk-news-classify.ipynb` file and run the cells sequentially.
 
 3.  **Test with the interactive prediction functions:**
     At the end of the notebook, you can use the provided functions to test new articles.
